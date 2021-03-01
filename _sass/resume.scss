@@ -1,0 +1,32 @@
+.entry {
+	margin-bottom: 2rem;
+}
+
+.entry .details {
+	padding-top: 1rem;
+}
+
+.entry .details-preamble {
+	padding-bottom: 1rem;
+}
+
+.entry .details-section-head {
+	font-weight: bold;
+}
+
+.preamble,
+.entry .entry-header {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	align-items: baseline;
+}
+
+.preamble .skills {
+	text-align: right;
+}
+
+.entry .entry-header .title {
+	font-weight: bold;
+	font-size: 1.5rem;
+}
