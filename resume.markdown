@@ -7,7 +7,7 @@ permalink: /resume/
 	<div class='contact-info'>
 		Anthony Vallée-­Dubois<br/>
 		<a href='mailto:resume@anthonyvd.com'>resume@anthonyvd.com</a><br/>
-		<a href='https://anthonyvd.com'>anthonyvd.com</a>
+		<a href='https://www.anthonyvd.com'>www.anthonyvd.com</a>
 	</div>
 	<div class='skills'>
 		B.Eng. - Software Engineering<br/>
