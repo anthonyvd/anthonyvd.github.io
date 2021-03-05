@@ -57,6 +57,7 @@ permalink: /resume/
 			</div>
 			<div class='details'>
 				<a href="https://chromium-review.googlesource.com/q/author:anthonyvd">chromium-review.googlesource.com/q/author:anthonyvd</a>
+				<br/>
 				<a href="https://codereview.chromium.org/search?owner=anthonyvd">codereview.chromium.org/search?owner=anthonyvd</a>
 			</div>
 		</div>
