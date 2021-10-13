@@ -76,7 +76,7 @@ permalink: /resume/
 			</div>
 			<div class='details'>
 				<div>Gameboy emulator written in Rust: <a href="https://github.com/anthonyvd/yagbe">github.com/anthonyvd/yagbe</a></div>
-				<div>Minimal GPU-accelerated raytracer: <a href="https://github.com/anthonyvd/cl-raytrace">github.com/anthonyvd/cl-raytrace</a></div>
+				<div>Minimal GPU-accelerated pathtracing renderer: <a href="https://github.com/anthonyvd/glsl-pathtracer">github.com/anthonyvd/glsl-pathtracer</a></div>
 				<div>macOS XBox One controller driver: <a href="https://github.com/anthonyvd/XBOControllerDriver">github.com/anthonyvd/XBOControllerDriver</a></div>
 			</div>
 		</div>
