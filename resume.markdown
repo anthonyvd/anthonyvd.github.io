@@ -19,12 +19,18 @@ permalink: /resume/
 		<h2>Experience</h2>
 		<div class='entry'>
 			<div class='entry-header'>
-				<div class='title'>Software Developer - Chrome</div>
+				<div class='title'>Senior Software Developer - Chrome</div>
 				<div class='date'>2015 - present</div>
 			</div>
 			<div class='employer'>Google</div>
 			<div class='details'>
 				<div class='details-preamble'>Individual contributor and Technical Lead on several Chrome Browser projects</div>
+				<div class='details-section-head'>Chrome Resource Management - Individual Contributor</div>
+				<ul>
+					<li>Designed, implemented, and shipped the non-UI components of Chrome's Memory and Battery Saver Modes</li>
+					<li>Implemented and measured power related optimizations</li>
+					<li>Designed and implemented internal tooling to generate aggregated views of in-the-wild performance data, leading to identification of several regressions and potential optimization opportunities</li>
+				</ul>
 				<div class='details-section-head'>Browser Enterprise - Individual Contributor</div>
 				<ul>
 					<li>Designed and implemented a mechanism for IT admins to send remote commands to managed Chrome instances</li>
